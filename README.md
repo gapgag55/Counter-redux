@@ -1,1 +1,1 @@
-Simeple Reac with Redux
+Simeple React with Redux
